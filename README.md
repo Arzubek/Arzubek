@@ -4,13 +4,13 @@ Hello! My name is Arzubek, and I'm a frontend developer with experience in creat
 
 My Skills
 
-- HTML5 <i class="fab fa-html5"></i>
-- CSS3 and Preprocessors (e.g., Sass, Less) <i class="fab fa-css3"></i>
-- JavaScript (including ES6+) <i class="fab fa-js"></i>
-- Frameworks and Libraries (e.g., React, Vue.js) <i class="fas fa-layer-group"></i>
-- Responsive and Mobile-First Web Development <i class="fas fa-mobile-alt"></i>
-- Build Tools (e.g., Webpack, Gulp) <i class="fas fa-tools"></i>
-- Version Control with Git <i class="fab fa-git"></i>
+- HTML5 ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
+- CSS3 and Preprocessors (e.g., Sass, Less) ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
+- JavaScript (including ES6+) ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+- Frameworks and Libraries (e.g., React, Vue.js) ![Frameworks](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
+- Responsive and Mobile-First Web Development ![Responsive](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg)
+- Build Tools (e.g., Webpack, Gulp) ![Build Tools](https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg)
+- Version Control with Git ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)
 
 Contact
 
