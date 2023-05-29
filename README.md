@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi there, I'm a Frontend Developer! 👋
 
-<!--
-**Arzubek/Arzubek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! My name is Arzubek, and I'm a frontend developer with experience in creating user-friendly web interfaces. I'm passionate about web technologies and always strive to build great web applications.
 
-Here are some ideas to get you started:
+My Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5 <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="20" height="20">
+- CSS3 and Preprocessors (e.g., Sass, Less) <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="20" height="20">
+- JavaScript (including ES6+) <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="20" height="20">
+- Frameworks and Libraries (e.g., React, Vue.js) <img src="https://img.icons8.com/color/48/000000/framework.png" alt="Frameworks" width="20" height="20">
+- Responsive and Mobile-First Web Development <img src="https://img.icons8.com/color/48/000000/responsive.png" alt="Responsive" width="20" height="20">
+- Build Tools (e.g., Webpack, Gulp) <img src="https://img.icons8.com/color/48/000000/build-tool.png" alt="Build Tools" width="20" height="20">
+- Version Control with Git <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="20" height="20">
+
+Contact
+
+- Email: arzubekyusupov@gmail.com
+- Telegram: @G00Duck
+
+Thank you for visiting my profile. I'm open to discussing any collaboration opportunities or just having a conversation about web development. Welcome to the world of frontend development!
+
