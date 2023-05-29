@@ -4,13 +4,13 @@ Hello! My name is Arzubek, and I'm a frontend developer with experience in creat
 
 My Skills
 
-- HTML5 ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
-- CSS3 and Preprocessors (e.g., Sass, Less) ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
-- JavaScript (including ES6+) ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-- Frameworks and Libraries (e.g., React, Vue.js) ![Frameworks](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
-- Responsive and Mobile-First Web Development ![Responsive](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg)
-- Build Tools (e.g., Webpack, Gulp) ![Build Tools](https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg)
-- Version Control with Git ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)
+- HTML5 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="20" height="20">
+- CSS3 and Preprocessors (e.g., Sass, Less) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="20" height="20">
+- JavaScript (including ES6+) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20">
+- Frameworks and Libraries (e.g., React, Vue.js) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Frameworks" width="20" height="20">
+- Responsive and Mobile-First Web Development <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Responsive" width="20" height="20">
+- Build Tools (e.g., Webpack, Gulp) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Build Tools" width="20" height="20">
+- Version Control with Git <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="20" height="20">
 
 Contact
 
